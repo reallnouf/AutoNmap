@@ -1,0 +1,4 @@
+PORT,STATE,SERVICE
+26/tcp,open,ssh
+80/tcp,open,http
+9729/tcp,open,nping-echo
