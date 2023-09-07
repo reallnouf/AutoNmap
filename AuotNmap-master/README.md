@@ -1,2 +1,2 @@
 # AuotNmap
-Network securoty analysis and automation of the Nmap tool, report generation and anomaly detection
+Network security project, aoutomation of Nmap tool, it generates report and anomaly detection
